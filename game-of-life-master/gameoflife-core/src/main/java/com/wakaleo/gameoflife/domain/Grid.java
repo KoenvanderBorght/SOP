@@ -34,6 +34,7 @@ public class Grid {
                 deadCells[i][j] = DEAD_CELL;
             }
         }
+        System.out.println( "test");
         return deadCells;
     }
 
