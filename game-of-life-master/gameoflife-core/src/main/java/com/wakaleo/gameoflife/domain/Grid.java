@@ -33,6 +33,7 @@ public class Grid {
             for (int j = 0; j < columns; j++) {
                 deadCells[i][j] = DEAD_CELL;
                 System.out.println("HALLO GITHUB");
+                //HURDUR
             }
         }
         return deadCells;
