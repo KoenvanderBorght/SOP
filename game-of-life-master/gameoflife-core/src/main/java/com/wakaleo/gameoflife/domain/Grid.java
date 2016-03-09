@@ -34,6 +34,7 @@ public class Grid {
                 deadCells[i][j] = DEAD_CELL;
                 System.out.println("HALLO GITHUB HALLO LEO");
                 //HURDUR
+                System.out.println("GRAPJE HAHAHAHHA");
             }
         }
         System.out.println( "mkdslmgkdl");
