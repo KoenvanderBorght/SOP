@@ -35,6 +35,7 @@ public class Grid {
             }
         }
         System.out.println( "mkdslmgkdl");
+        // Hallo Koen
         return deadCells;
     }
 
