@@ -35,6 +35,7 @@ public class Grid {
                 System.out.println("HALLO GITHUB HALLO LEO");
                 //HURDUR
                 System.out.println("GRAPJE HAHAHAHHA");
+                System.out.println("GRAPJE HAHAHAHHA");
             }
         }
         System.out.println( "mkdslmgkdl");
