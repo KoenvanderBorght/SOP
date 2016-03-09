@@ -36,6 +36,7 @@ public class Grid {
                 //HURDUR
             }
         }
+        System.out.println( "mkdslmgkdl");
         return deadCells;
     }
 
