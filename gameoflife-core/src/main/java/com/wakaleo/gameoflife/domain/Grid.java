@@ -32,11 +32,9 @@ public class Grid {
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < columns; j++) {
                 deadCells[i][j] = DEAD_CELL;
-                System.out.println("HALLO LEO NU WERKT HET WEL YEAH");
+                //YES LEO YEEEEES!!!!
             }
         }
-        System.out.println( "mkdslmgkdl");
-        // Hallo Koen
         return deadCells;
     }
 
