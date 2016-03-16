@@ -32,7 +32,6 @@ public class Grid {
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < columns; j++) {
                 deadCells[i][j] = DEAD_CELL;
-                //YES LEO YEEEEES!!!!
             }
         }
         return deadCells;
